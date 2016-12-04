@@ -1,0 +1,19 @@
+{
+  "name": "asyn",
+  "version": "1.0.0",
+  "description": "Async Programming Masterclass - Live Webinar on 01/12/2016",
+  "main": "01_async_js.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/brunowdev/node-async-programming.git"
+  },
+  "author": "brunowdev",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/brunowdev/node-async-programming/issues"
+  },
+  "homepage": "https://github.com/brunowdev/node-async-programming#readme"
+}

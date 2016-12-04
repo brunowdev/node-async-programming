@@ -1,4 +1,4 @@
-/**
+﻿/**
  * Demonstra apenas a funcionalidade de passagem de uma função como parâmetro
  */
 const myFunction = function(param) {
